@@ -1,1 +1,31 @@
 
+body{
+    background-color: rgb(223, 224, 214);
+}
+
+.navhead{
+    display:block;
+}
+
+.box1{
+    
+    display:inline-block;
+    padding : 2px;
+    margin: 10px;
+    height: 100px;
+    width: 50%;
+}
+
+.link {
+    margin:5px;
+    padding:1px;
+    display: inline-block;
+    text-decoration:none;
+}
+
+.link a {
+    text-decoration: none;
+}
+.link a:hover{
+    background-color: blanchedalmond;
+}
